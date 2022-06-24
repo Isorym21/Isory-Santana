@@ -1,0 +1,70 @@
+ 
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": " iOS APP",
+      "title": "Merge Apps!",
+      "description": "Merge Apps will be connected to the following applications:  iOScolleges, Calculator, FahrenheitConv, KelvinToCelsius, GuessGame, Design, PictureGallery, TipCalculator, GradeCalculator, LoanCalculator, AL1, and BusinessCard.     ",
+      "tags": ["Dart, HTML, Swift, and Other", "May 23, 2022"],
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/Merge Apps.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Isorym21/-CST2301Project_Merge-Apps"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Website Project",
+      "title": "First Portfolio",
+      "description": "The first version of my personal website, built with w3schools",
+      "tags": ["HTML", "Jun 06, 2022"],
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/Portfolio .png",
+        "alt": "Quick Setup",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Isorym21/IS"
+        },
+        {
+          "type": "external",
+          "url": "https://isorysantana.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": " iOS APP",
+      "title": "Development of an Assistive App on Girls Who Code",
+      "description": "A social good app SpecialNeeds & Park is about giving children appropriate safety in park resources. It's not only just park information. It's about restoring children's safety in all of its complexities and freedom. Make the difference we need to make.!",
+      "tags": ["Dart, HTML, Swift, and Other", "May 05, 2022"],
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/SpecialNeeds&Park.png",
+        "alt": "Development of an Assistive App on Girls Who Code "
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Isorym21/Development-of-an-Assistive-App-on-Girls-Who-Code"
+        }
+      ]
+    }
+  ],
+  "button": { 
+    "visible": true,
+    "label": "Go To Github To Explore More!",
+    "url": "https://github.com/Isorym21"
+  }
+ }
+  
+  
+ 

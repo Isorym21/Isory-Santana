@@ -1,0 +1,19 @@
+{
+  "intro": "Hello World! My name is",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "Isory Santana",
+  "subtitle": {
+    "prefix": "I love exploring ",
+    "highlight": "new things!",
+    "suffix": "."
+  },
+  "description": "Insightful, and dedicated Information Technology student focusing on Software Development.",
+  "socialProfiles": {
+    "from": ["LinkedIn",  "Github", "Mail"],
+    "showIcons": false
+  }
+ }
+ 

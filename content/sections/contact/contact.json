@@ -1,0 +1,14 @@
+{
+  "name": "Isory Santana",
+  "email": "isory.santana@mail.citytech.cuny.edu",
+  "description": "My inbox is always open.  I will do my best to respond! whether you have a question or simply want to say hello! Feel free to mail me about any relevant job updates.",
+  "image": {
+    "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/isory.png",
+    "alt": "Isory Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+ }
+ 

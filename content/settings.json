@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Isory Santana",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "author": "Konstantin Münster",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/Isorym21",
+      "linkedin": "https://www.linkedin.com/in/isory-santana?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQgoDI9L8Q9qOQw2796zaUw%3D%3D",
+      "mail": "mailto:isory.santana@mail.citytech.cuny.edu"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "IS" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Contact", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/Resume.pdf"
+      },
+      "footer": [
+        { "label": "Designed & Built by Konstantin Münster Revised by Isory Santana", "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal" },
+        { "label": "", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+ }
+  
+ 

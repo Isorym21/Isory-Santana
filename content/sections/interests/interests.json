@@ -1,0 +1,97 @@
+{
+  "interests": [
+    {
+      "label": "Flutter",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/Flutter.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "HTML",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/HTML.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "CSS",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/CSS.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Figma",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/Figma.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/Python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/java.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SQL",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/SQL.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Visual Studio Code",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/Visual Studio Code.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Android Studio",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/_Android Studio.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Wordpress",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/wordpress.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Microsoft",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/microsoft.png",
+        "alt": ""
+      }
+    },
+   
+  
+    {
+      "label": "Canva",
+      "image": {
+        "src": "/Users/isorysantana/gatsby-starter-portfolio-minimal-theme/content/images/Canva.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+ }
+  
+ 
