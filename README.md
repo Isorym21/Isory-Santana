@@ -43,5 +43,5 @@ Just clone this Gatsby Starter, add the content. And that's it!
 
 
 ---
-permalink: /index.html
+permalink: /Isory-Santana
 ---
