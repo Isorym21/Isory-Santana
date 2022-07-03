@@ -1,3 +1,11 @@
+---
+
+## Please give proper credit by linking back to https://www.konstantin.digital/ Thanks! 💪
+
+
+---
+
+
 <img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
 # Gatsby Starter Portfolio Minimal Theme
@@ -34,16 +42,6 @@ Just clone this Gatsby Starter, add the content. And that's it!
    ```
 
 4. By default, the Portfolio Minimal Starter has a `content` directory at the root of your Gatsby site. There, you can edit the theme settings as well as add content for your sections. To learn more about it, have a look at the [Readme of Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme).
-
----
-
-## Thanks a lot for using this starter! 💪
-
-Please give proper credit by linking back to https://www.konstantin.digital/ Thanks!
-
-If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
-
-
 
 
 
