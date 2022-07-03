@@ -37,14 +37,13 @@ Just clone this Gatsby Starter, add the content. And that's it!
 
 ---
 
-## Issues?
+## Thanks a lot for using this starter! 💪
+
+Please give proper credit by linking back to https://www.konstantin.digital/ Thanks!
 
 If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
 
-Thanks a lot for using this starter! 💪
 
----
 
-<a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-Konstantin Münster – [konstantin.digital](https://konstantin.digital)
+
