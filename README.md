@@ -3,8 +3,6 @@
 ## Please give proper credit by linking back to https://www.konstantin.digital/ Thanks! 💪
 
 
----
-
 
 <img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
