@@ -3,7 +3,6 @@
 
 Please give proper credit by linking back to https://www.konstantin.digital/ Thanks! 💪
 
-
 <img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
 # Gatsby Starter Portfolio Minimal Theme
@@ -12,7 +11,7 @@ Please give proper credit by linking back to https://www.konstantin.digital/ Tha
 
 Portfolio Minimal is a Gatsby Theme that let's you create outstanding one-page portfolios within minutes. This Gatsby Starter is a boilerplate project that has the theme pre-installed and pre-configured.
 
-Just clone this Gatsby Starter, add the content. And that's it!
+Just Install with gatsby-cli , add the content. And that's it!
 
 [Live Demo on Netlify](https://gatsby-starter-portfolio-minimal-theme.netlify.app/) · [Portfolio Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
 
@@ -26,10 +25,10 @@ Just clone this Gatsby Starter, add the content. And that's it!
    npm install -g gatsby-cli
    ```
 
-2. Create a new Gatsby site with the Portfolio Minimal Starter.
+2. Install with gatsby-cli 
 
    ```sh
-   gatsby new portfolio-minimal https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme
+   npx gatsby new gatsby-starter-portfolio-minimal-theme https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme
    ```
 
 3. Once installed, you can begin developing your site.
