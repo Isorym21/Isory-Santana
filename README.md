@@ -1,6 +1,6 @@
 ---
 
-## Please give proper credit by linking back to https://www.konstantin.digital/ Thanks! 💪
+Please give proper credit by linking back to https://www.konstantin.digital/ Thanks! 💪
 
 
 
